@@ -1,0 +1,5 @@
+Link: https://www.anaconda.com/docs/getting-started/miniconda/main#should-i-install-miniconda-or-anaconda-distribution
+
+Miniconda is a free, miniature installation of Anaconda Distribution that includes only conda, Python, the packages they both depend on, and a small number of other useful packages.
+
+Download Link: https://repo.anaconda.com/miniconda/

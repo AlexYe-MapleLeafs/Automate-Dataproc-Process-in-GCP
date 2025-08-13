@@ -12,3 +12,5 @@ Data accessibility: When you shut down a Hadoop cluster, unlike HDFS, you contin
 High data availability: Data stored in Cloud Storage is highly available and globally replicated without a loss of performance.
 No storage management overhead: Unlike HDFS, Cloud Storage requires no routine maintenance, such as checking the file system, or upgrading or rolling back to a previous version of the file system.
 Quick startup: In HDFS, a MapReduce job can't start until the NameNode is out of safe mode, a process that can take from a few seconds to many minutes depending on the size and state of your data. With Cloud Storage, you can start your job as soon as the task nodes start, which leads to significant cost savings over time.
+
+Download link: https://repo1.maven.org/maven2/com/google/cloud/bigdataoss/gcs-connector/
