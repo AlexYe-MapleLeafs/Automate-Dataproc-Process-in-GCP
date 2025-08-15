@@ -26,3 +26,5 @@ It illustrates the structure, configurations, and code required to automate proc
 4. **Orchestration** — Airflow triggers the container execution according to the schedule defined in `dataproc_serverless_01_dag.py`.
 
 ---
+
+![Dataproc Processes Diagram](/dataproc_process.png)
